@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/KinRai-D/static/css/main.b312a01f.chunk.css",
+    "main.js": "/KinRai-D/static/js/main.7def570e.chunk.js",
+    "main.js.map": "/KinRai-D/static/js/main.7def570e.chunk.js.map",
+    "runtime-main.js": "/KinRai-D/static/js/runtime-main.3ac49518.js",
+    "runtime-main.js.map": "/KinRai-D/static/js/runtime-main.3ac49518.js.map",
+    "static/js/2.6665392d.chunk.js": "/KinRai-D/static/js/2.6665392d.chunk.js",
+    "static/js/2.6665392d.chunk.js.map": "/KinRai-D/static/js/2.6665392d.chunk.js.map",
+    "index.html": "/KinRai-D/index.html",
+    "precache-manifest.798bbaee419f2b6822671a8d6b65cb1d.js": "/KinRai-D/precache-manifest.798bbaee419f2b6822671a8d6b65cb1d.js",
+    "service-worker.js": "/KinRai-D/service-worker.js",
+    "static/css/main.b312a01f.chunk.css.map": "/KinRai-D/static/css/main.b312a01f.chunk.css.map",
+    "static/js/2.6665392d.chunk.js.LICENSE.txt": "/KinRai-D/static/js/2.6665392d.chunk.js.LICENSE.txt",
+    "static/media/lemillion.jpg": "/KinRai-D/static/media/lemillion.0ef117ee.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ac49518.js",
+    "static/js/2.6665392d.chunk.js",
+    "static/css/main.b312a01f.chunk.css",
+    "static/js/main.7def570e.chunk.js"
+  ]
+}
